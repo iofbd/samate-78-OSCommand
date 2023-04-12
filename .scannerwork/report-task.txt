@@ -1,0 +1,7 @@
+organization=ramil4icr
+projectKey=OsComm
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.15878
+dashboardUrl=https://sonarcloud.io/dashboard?id=OsComm
+ceTaskId=AXaOhXutwbPuUcFvwfB8
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXaOhXutwbPuUcFvwfB8

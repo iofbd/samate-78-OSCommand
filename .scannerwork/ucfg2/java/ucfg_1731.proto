@@ -1,0 +1,37 @@
+
+Ítestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__getQueryString_Servlet_22b#goodG2B1Source(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.java: :( "4*…
+2¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.javaH H(Ó
+Ð
+¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.javaH H(
+datajava.lang.String"__id*
+foo*
+1*„
+3¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.javaB B(Ò
+Ï
+¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.javaB B(
+datajava.lang.String"__id*
+""*
+1*‡
+4¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.java< <(Ò
+Ï
+¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.java< <(
+datajava.lang.String"__id*
+""*
+2
+3*ð
+1¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.javaL L("Ã
+¤
+™/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_22b.javaL L(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB_]
+[testcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__getQueryString_Servlet_22b

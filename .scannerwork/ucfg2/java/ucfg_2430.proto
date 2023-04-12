@@ -1,0 +1,37 @@
+
+Ítestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__getQueryString_Servlet_21#goodG2B1_source(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String;£
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.javaz z(""4*‡
+2¥
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.javaˆ ˆ(Ô
+Ñ
+¥
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.javaˆ ˆ(
+datajava.lang.String"__id*
+foo*
+1*†
+3¥
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.java‚ ‚(Ó
+Ð
+¥
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.java‚ ‚(
+datajava.lang.String"__id*
+""*
+1*…
+4£
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.java| |(Ñ
+Î
+£
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.java| |(
+datajava.lang.String"__id*
+""*
+2
+3*ò
+1¥
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.javaŒ Œ("Ä
+¥
+˜/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getQueryString_Servlet_21.javaŒ Œ(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB^\
+Ztestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__getQueryString_Servlet_21

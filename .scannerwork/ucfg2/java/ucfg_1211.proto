@@ -1,0 +1,23 @@
+
+.testcasesupport.IO#staticReturnsTrueOrFalse()ZZ
+P/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcasesupport/IO.javab b(2"1*ª
+1Z
+P/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcasesupport/IO.javad d(&‰†
+Z
+P/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcasesupport/IO.javad d($
+%0java.util.Random"java.util.Random›
+˜
+Z
+P/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcasesupport/IO.javad d(&
+%1"java.util.Random#<init>()V*
+
+%0java.util.Random¸µ
+Z
+P/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcasesupport/IO.javad d(5
+%2boolean"java.util.Random#nextBoolean()Z*
+
+%0java.util.Random2nextBoolean()"d
+Z
+P/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcasesupport/IO.javad d(6
+""B"
+testcasesupport.IO

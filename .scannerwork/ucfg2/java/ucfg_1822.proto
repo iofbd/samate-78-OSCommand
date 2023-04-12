@@ -1,0 +1,22 @@
+
+Ètestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__getCookies_Servlet_61b#goodG2BSource(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Ljava/lang/String; 
+•/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getCookies_Servlet_61b.java. .("1*‹
+1 
+•/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getCookies_Servlet_61b.java0 0(Î
+Ë
+ 
+•/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getCookies_Servlet_61b.java0 0(
+datajava.lang.String"__id*
+""Ï
+Ì
+ 
+•/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getCookies_Servlet_61b.java3 3(
+datajava.lang.String"__id*
+foo"¿
+ 
+•/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__getCookies_Servlet_61b.java5 5(
+
+datajava.lang.String:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB[Y
+Wtestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__getCookies_Servlet_61b

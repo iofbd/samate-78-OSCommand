@@ -1,0 +1,27 @@
+
+ntestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__Environment_61b#badSource()Ljava/lang/String;™
+Ž/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Environment_61b.java ("1*˜
+1™
+Ž/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Environment_61b.java (Ç
+Ä
+™
+Ž/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Environment_61b.java (
+datajava.lang.String"__id*
+""•
+’
+™
+Ž/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Environment_61b.java (#
+%0java.lang.String"=java.lang.System#getenv(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+ADDÙ
+Ö
+™
+Ž/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Environment_61b.java (#
+datajava.lang.String"__id*
+
+%0java.lang.String"¸
+™
+Ž/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Environment_61b.java! !(
+
+datajava.lang.StringBTR
+Ptestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__Environment_61b

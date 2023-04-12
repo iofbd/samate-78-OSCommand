@@ -1,0 +1,42 @@
+
+ktestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__Property_22b#badSource()Ljava/lang/String;ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java ("4*Ë
+2ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java' '(ƒ
+¡
+ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java' '(
+datajava.lang.String"__id*
+""*
+1*ö
+3ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java! !(ù
+ö
+ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java! !(2
+%0java.lang.String"Bjava.lang.System#getProperty(Ljava/lang/String;)Ljava/lang/String;*"
+java.lang.System*
+	user.home÷
+”
+ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java! !(2
+datajava.lang.String"__id*
+
+%0java.lang.String*
+1*Î
+4ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java (ƒ
+¡
+ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java (
+datajava.lang.String"__id*
+""*
+2
+3*‘
+1ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java) )("µ
+ñ
+ã/Users/munawar/Desktop/testspace/samate-78-OSCommand/src/testcases/CWE78_OS_Command_Injection/CWE78_OS_Command_Injection__Property_22b.java) )(
+
+datajava.lang.StringBQO
+Mtestcases.CWE78_OS_Command_Injection.CWE78_OS_Command_Injection__Property_22b
