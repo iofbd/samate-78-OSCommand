@@ -16,6 +16,7 @@ Template File: sources-sink-75b.tmpl.java
 
 package testcases.CWE78_OS_Command_Injection;
 
+import io.github.pixee.security.SystemCommand;
 import testcasesupport.*;
 import java.io.ByteArrayInputStream;
 import java.io.ObjectInputStream;
@@ -51,7 +52,7 @@ public class CWE78_OS_Command_Injection__connect_tcp_75b
             }
 
             /* POTENTIAL FLAW: command injection */
-            Process process = Runtime.getRuntime().exec(osCommand + data);
+            Process process = SystemCommand.runCommand(Runtime.getRuntime(), osCommand + data);
             process.waitFor();
 
         }
@@ -118,7 +119,7 @@ public class CWE78_OS_Command_Injection__connect_tcp_75b
             }
 
             /* POTENTIAL FLAW: command injection */
-            Process process = Runtime.getRuntime().exec(osCommand + data);
+            Process process = SystemCommand.runCommand(Runtime.getRuntime(), osCommand + data);
             process.waitFor();
 
         }
