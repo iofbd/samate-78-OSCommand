@@ -15,6 +15,7 @@ Template File: sources-sink-51a.tmpl.java
 
 package testcases.CWE78_OS_Command_Injection;
 
+import io.github.pixee.security.BoundedLineReader;
 import testcasesupport.*;
 
 import javax.servlet.http.*;
@@ -51,7 +52,7 @@ public class CWE78_OS_Command_Injection__connect_tcp_51a extends AbstractTestCas
                 readerBuffered = new BufferedReader(readerInputStream);
 
                 /* POTENTIAL FLAW: Read data using an outbound tcp connection */
-                data = readerBuffered.readLine();
+                data = BoundedLineReader.readLine(readerBuffered, 5_000_000);
             }
             catch (IOException exceptIO)
             {
