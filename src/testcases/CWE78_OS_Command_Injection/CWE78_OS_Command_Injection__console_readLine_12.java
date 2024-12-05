@@ -15,6 +15,7 @@ Template File: sources-sink-12.tmpl.java
 
 package testcases.CWE78_OS_Command_Injection;
 
+import io.github.pixee.security.BoundedLineReader;
 import testcasesupport.*;
 
 import javax.servlet.http.*;
@@ -43,7 +44,7 @@ public class CWE78_OS_Command_Injection__console_readLine_12 extends AbstractTes
                     readerInputStream = new InputStreamReader(System.in, "UTF-8");
                     readerBuffered = new BufferedReader(readerInputStream);
                     /* POTENTIAL FLAW: Read data from the console using readLine */
-                    data = readerBuffered.readLine();
+                    data = BoundedLineReader.readLine(readerBuffered, 5_000_000);
                 }
                 catch (IOException exceptIO)
                 {
