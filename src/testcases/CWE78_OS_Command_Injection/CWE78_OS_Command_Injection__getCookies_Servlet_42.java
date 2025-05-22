@@ -15,6 +15,7 @@ Template File: sources-sink-42.tmpl.java
 
 package testcases.CWE78_OS_Command_Injection;
 
+import io.github.pixee.security.SystemCommand;
 import testcasesupport.*;
 
 import javax.servlet.http.*;
@@ -59,7 +60,7 @@ public class CWE78_OS_Command_Injection__getCookies_Servlet_42 extends AbstractT
         }
 
         /* POTENTIAL FLAW: command injection */
-        Process process = Runtime.getRuntime().exec(osCommand + data);
+        Process process = SystemCommand.runCommand(Runtime.getRuntime(), osCommand + data);
         process.waitFor();
 
     }
@@ -92,7 +93,7 @@ public class CWE78_OS_Command_Injection__getCookies_Servlet_42 extends AbstractT
         }
 
         /* POTENTIAL FLAW: command injection */
-        Process process = Runtime.getRuntime().exec(osCommand + data);
+        Process process = SystemCommand.runCommand(Runtime.getRuntime(), osCommand + data);
         process.waitFor();
 
     }
